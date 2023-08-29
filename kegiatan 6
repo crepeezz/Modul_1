@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Penerapan Rowspan</title>
+    </head>
+    <body>
+        <table border="1" cellspacing="0" cellpanding="10"> 
+            <tr>
+               <th rowspan="2">Nama</th><th rowspan="2">Mapel</th><th colspan="2">Nilai</th>
+            </tr>
+            <tr>
+                <th>1</th><th>2</th>
+            </tr>
+            <tr>
+                <td>Kia</td><td>IPS</td><td>85</td><td>89</td>
+            </tr>
+            <tr>
+                <td>Budi</td><td>MTK</td><td>90</td><td>99</td>
+            </tr>
+        </table>
+        
+    </body>
+</html>
