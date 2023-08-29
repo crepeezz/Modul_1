@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Modul 1 dan 2</title>
+    </head>
+    <body>
+      <h3>Singel Picture</h3>
+        <img src="d:\sevilla\html\garuda.png" width="200" height="200" alt="garuda">
+
+      <h3>Picture with text</h3>
+        <p><img src="d:\sevilla\html\garuda.png" align="left" width="100" height="100"  hspace="20" vspace="20" alt="garuda">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
+        software like Aldus PageMaker including versions of Lorem Ipsum.
+        </p>
+
+        <br>
+      <h3>Audio</h3>
+        <audio controls>
+            <source src="d:\sevilla\html\Nadin Amizah Rayuan Perempuan Gila.mp3" type="audio/mp3">
+                Browser doesn't support audio
+        </audio>
+
+      <h3>Video</h3>
+            <iframe src="d:\sevilla\html\Nadin Amizah - Semua Aku Dirayakan (Official Music Video).mp4" type="video/mp4"
+              frameborder="0"></iframe>
+        
+    </body>
+</html>
