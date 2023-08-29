@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Membuat Tabel</title>
+    </head>
+    <body>
+      <table border="1" cellspacing="0" cellpanding="10"> 
+            <tr>
+                <td>Nama</td><td>Mapel</td><td>Nilai</td>
+            </tr>
+            <tr>
+                <td>Budi</td><td>MTK</td><td>90</td>
+            </tr>
+            <tr>
+                <td>Kia</td><td>IPS</td><td>85</td>
+            </tr>
+        </table>
+
+    </body>
+</html>
