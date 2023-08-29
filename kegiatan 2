@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>Format Text</title>
+    </head>
+    <body>
+        <h2>Penerapan Format Text</h2>
+        <ul>
+            <li>
+                <b>ini format tulisan tebal</b>
+            </li>
+            <li>
+                <i>ini adalah format tulisan miring</i>
+            </li>
+            <li>
+                <u>ini adalah format tulisan garis bawah</u>
+            </li>
+            <li>
+                <mark>Coding itu mudah</mark>
+            </li>
+            <li>
+                pemrograman web itu <del>sulit</del> mudah
+            </li>
+            <li>
+                Ini adalah format pangkat x<sup>2</sup> + y <sup>3</sup> = 15
+            </li>
+            <li>
+                H<sub>2</sub>O<sub>3</sub>
+            </li>
+        </ul>
+
+    </body>
+</html>
